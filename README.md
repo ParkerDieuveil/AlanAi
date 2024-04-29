@@ -1,0 +1,1 @@
+This is a web application featuring voice assistance that engages in friendly and informative conversations. It provides news tailored to various categories, sources, and more. Additionally, it can assist you by reading the news aloud. Beyond these functionalities, it offers other features as well
